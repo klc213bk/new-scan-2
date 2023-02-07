@@ -1,0 +1,1600 @@
+======================================================================================================
+[Summary]
+  Upload : 12
+  Success : 12
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-03-28 10:11:25.748  
+[Record Data]
+  Image File : 2022032809441079801_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074
+  filePage : 2
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110415
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 4
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110415
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : null
+  scanTime : 2022-03-28 09:44:03
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 5
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-03-28 15:43:22.060  
+[Record Data]
+  Image File : 2022032809441079801_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074
+  filePage : 2
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110415
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110415
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : null
+  scanTime : 2022-03-28 09:44:03
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 1
+  Failed : 0
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-06 23:22:16.971  
+[Record Data]
+  Image File : 2022033017561410801_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200411
+  filePage : 1
+  boxNo : 3H110188
+  batchDepType : GR
+  batchDepTypeValue : GR
+  batchDate : 1110430
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110430
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-03-30 17:56:06
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-06 23:22:30.545  
+[Record Data]
+  Image File : 2022033017561410801_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200411
+  filePage : 1
+  boxNo : 3H110188
+  batchDepType : GR
+  batchDepTypeValue : GR
+  batchDate : 1110430
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110430
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-03-30 17:56:06
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-06 23:23:30.888  
+[Record Data]
+  Image File : 2022033017561410801_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200411
+  filePage : 2
+  boxNo : 3H110188
+  batchDepType : GR
+  batchDepTypeValue : GR
+  batchDate : 1110430
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110430
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-03-30 17:56:06
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-06 23:24:13.263  
+[Record Data]
+  Image File : 2022033017561410801_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200
+  filePage : 2
+  boxNo : 3H110188
+  batchDepType : GR
+  batchDepTypeValue : GR
+  batchDate : 1110430
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110430
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-03-30 17:56:06
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 10:04:31.034  
+[Record Data]
+  Image File : 2022033017561410801_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200411
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : GR
+  batchDepTypeValue : GR
+  batchDate : 1110430
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110430
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-03-30 17:56:06
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 10:07:39.782  
+[Record Data]
+  Image File : 2022040710063605501_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200411
+  filePage : 2
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 2
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-03-30 17:56:06
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 12
+  Success : 12
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 1
+  Failed : 0
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 11:45:36.123  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 11:52:41.154  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 12:01:16.934  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 12:01:39.320  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 11
+  Success : 10
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 12:03:31.029  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 12:03:59.853  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 13:32:10.458  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 13:32:26.617  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 13:44:38.292  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 13:51:18.680  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 13:52:35.810  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-07 13:53:32.369  
+[Record Data]
+  Image File : 2022040711402962301_01028074973.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBA040
+  fileTypeText : UNBA040-傳統型保險要保書
+  fileCode : 01028074A
+  filePage : 5
+  boxNo : 3H110188
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 7
+  scanTime : 2022-04-07 11:40:21
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 2
+  Success : 2
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 1
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 1
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 1
+  Failed : 0
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-04-08 14:17:50.074  
+[Record Data]
+  Image File : 2022040814164387101_110031200411.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : POS
+  mainFileTypeText : POS-POS
+  fileType : POSN012
+  fileTypeText : POSN012-審查表 
+  fileCode : 110031200411
+  filePage : 1
+  boxNo : 3H110090
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110506
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : N
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110506
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 0
+  scanTime : 2022-04-08 14:16:38
+  actionType : 
+[Upload Result]
+  failed
+  13712, 無效保單號
+
+======================================================================================================
+[Summary]
+  Upload : 1
+  Success : 0
+  Failed : 1
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 3
+  Success : 3
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 12
+  Success : 12
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-06-15 10:00:54.862  
+[Record Data]
+  Image File : 2022061509582164701_UNBB00911.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBB009
+  fileTypeText : UNBB009-投資型風險屬性評估表
+  fileCode : null
+  filePage : 1
+  boxNo : 3H110200
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110401
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : 
+  sendEmail : N
+  remark : 
+  scanOrder : 1
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110401
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 1
+  scanTime : 2022-06-15 09:58:14
+  actionType : 
+[Upload Result]
+  failed
+  12324, 參數傳輸不全!
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-06-15 10:00:55.508  
+[Record Data]
+  Image File : 2022061510000347801_UNBB00911.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBB009
+  fileTypeText : UNBB009-投資型風險屬性評估表
+  fileCode : null
+  filePage : 1
+  boxNo : 3H110200
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110401
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : 
+  sendEmail : N
+  remark : 
+  scanOrder : 3
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110401
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : N
+  sigSeqNumber : 
+  maxPage : 1
+  scanTime : 2022-06-15 09:58:14
+  actionType : 
+[Upload Result]
+  failed
+  12324, 參數傳輸不全!
+
+------------------------------------------------------------------------------------------------------
+[Time]
+  2022-06-15 10:00:55.532  
+[Record Data]
+  Image File : 2022061510000351101_UNBB00911_1_sig.tiff
+  orgCode : 101
+  orgName : 台北總公司
+  deptId : 2266
+  deptName : 契約行政科
+  mainFileType : UNB
+  mainFileTypeText : UNB-新契約
+  fileType : UNBB009
+  fileTypeText : UNBB009-投資型風險屬性評估表
+  fileCode : null
+  filePage : 
+  boxNo : 3H110200
+  batchDepType : NB
+  batchDepTypeValue : NB
+  batchDate : 1110401
+  batchArea : 09
+  batchDocType : 09
+  companyCode : null
+  personalCode : null
+  actionReplace : N
+  actionInsert : N
+  isRemote : 
+  sendEmail : N
+  remark : 
+  scanOrder : 4
+  bizDept : NB
+  isGID : N
+  empId : 100423
+  rocDate : 1110401
+  updateRole : Y
+  step : uploadAll
+  recordStatus : 0
+  fromQueryPage : false
+  imageFormat : tiff
+  imageSaveDir : C:\TGL-Scan-Test\image-archive\
+  signature : Y
+  sigSeqNumber : 1
+  maxPage : 1
+  scanTime : 2022-06-15 09:58:14
+  actionType : 
+[Upload Result]
+  failed
+  12324, 參數傳輸不全!
+
+======================================================================================================
+[Summary]
+  Upload : 4
+  Success : 1
+  Failed : 3
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
+======================================================================================================
+[Summary]
+  Upload : 6
+  Success : 6
+  Failed : 0
+
+
+
